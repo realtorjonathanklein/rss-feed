@@ -3,7 +3,8 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Your Site Name</title>
-    <link>https://your-site.com/</link>
+    <link>https://realtorjonathanklein.github.io/rss-feed/holiday-party.html</link>
+<guid isPermaLink="true">https://realtorjonathanklein.github.io/rss-feed/holiday-party.html</guid>
     <description>Latest articles from Your Site</description>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Dec 2025 12:00:00 GMT</lastBuildDate>
